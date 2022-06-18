@@ -1,0 +1,70 @@
+=meta: 0.0.2
+
+name: YAMLStar
+version: 0.0.1
+abstract: A cross-language, common API YAML reference framework
+homepage: https://yamlstar.org
+license: mit
+copyright: 2023
+
+author:
+  name: Ingy döt Net
+  email: ingy@ingy.net
+  github: ingydotnet
+  twitter: ingydotnet
+  freenode: ingy
+  homepage: http://ingy.net
+
+devel:
+  git: https://github.com/yaml/yamlstar
+  bug: https://github.com/yaml/yamlstar/issues
+  irc: irc.libera.chat#yamlstar
+
+branch: main
+
+publish:
+- language: elixir
+  registry: hex.pm
+  version: 0.0.1
+  url: https://hex.pm/packages/yamlstar
+
+- language: js
+  registry: npm
+  version: 0.0.1
+  url: https://www.npmjs.com/package/yamlstar
+
+- language: perl
+  registry: cpan
+  version: 0.0.1
+  url: https://metacpan.org/dist/YAMLStar
+
+- language: python
+  registry: pypi
+  version: 0.0.1
+  url: https://pypi.org/project/yamlstar/
+
+- language: raku
+  registry: rubygems
+  version: 0.0.1
+  url: https://rubygems.org/gems/yamlstar
+
+- language: ruby
+  registry: rubygems
+  version: 0.0.1
+  url: https://rubygems.org/gems/yamlstar
+
+- language: rust
+  registry: crates
+  version: 0.0.1
+  url: https://crates.io/crates/yamlstar
+
+# TODO
+- language: lua
+  registry: luarocks
+  version: 0.0.1
+  url: XXX
+
+- registry: deno
+- registry: juliahub
+- registry: clojars
+- registry: maven
