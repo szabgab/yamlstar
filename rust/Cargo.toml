@@ -1,0 +1,11 @@
+[package]
+name = "yamlstar"
+version = "0.0.1"
+edition = "2021"
+description = "A cross-language, common API YAML reference framework"
+license = "MIT"
+readme = "ReadMe.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

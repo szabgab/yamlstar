@@ -1,0 +1,16 @@
+{ "api": 0
+, "name": "YAMLStar"
+, "version": "0.0.1"
+, "description": "A cross-language, common API YAML reference framework"
+, "auth": "zef:ingy"
+, "provides":
+  { "YAMLStar": "lib/YAMLStar.rakumod"
+  }
+, "depends": []
+, "build-depends": []
+, "test-depends": []
+, "tags":
+  [ "yaml"
+  , "language"
+  ]
+}
