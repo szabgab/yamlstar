@@ -5,6 +5,7 @@ edition = "2021"
 description = "A cross-language, common API YAML reference framework"
 license = "MIT"
 readme = "ReadMe.md"
+repository = "https://github.com/yaml/yamlstar"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
